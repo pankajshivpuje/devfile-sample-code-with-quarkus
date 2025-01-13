@@ -42,7 +42,7 @@ spec:
         - name: kind
           value: task
         resolver: bundles
-    - name: show-summary
+    - name: show-summary-1
       params:
       - name: pipelinerun-name
         value: $(context.pipelineRun.name)
