@@ -57,7 +57,7 @@ spec:
         - name: name
           value: summary
         - name: bundle
-          value: quay.io/redhat-appstudio-tekton-catalog/task-summary:0.1@sha256:bd6a2285974541df01260deca99a84b3b48a6b40759049e7e41e96b4942d83d3
+          value: quay.io/redhat-appstudio-tekton-catalog/task-summary:0.1@sha256:4d7a2201ce4cb6dca8a48f4d9d4e02d5d3b57ef8eb99009675f1a34f2923ae49
         - name: kind
           value: task
         resolver: bundles
